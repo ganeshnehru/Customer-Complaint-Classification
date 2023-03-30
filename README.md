@@ -1,10 +1,6 @@
 ---
 title: Comsumer Complaints Classification
 date: "November 30, 2022"
-
-header-includes: |
-  \usepackage{booktabs}
-  \usepackage{caption}
 ---
 
 # Abstract
